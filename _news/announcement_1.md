@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2026-04-09
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Presented my oral talk on CGM-EEG at [ISBI 2026](https://ieeexplore.ieee.org/xpl/conhome/11515282/proceeding) in London — it was fun! 🎤

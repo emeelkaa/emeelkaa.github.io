@@ -2,16 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://ai.pusan.ac.kr/ai/index.do'>Graduate School of AI, Pusan National University</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: photo.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Busan, South Korea</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -22,13 +20,23 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello! My name is Emil. I am currently a second-year M.S. candidate in the [IC&ML Lab](https://jkgahm.github.io/), Graduate School of AI, Pusan National University. Before starting my graduate studies, I obtained my B.S. in Computer Science and Engineering at Pusan National University.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I spend most of my time exploring biosignals, medical image analysis, and multimodal representation learning — usually with too many tabs open and a GPU running somewhere.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research interest lies in:
+
+- Biosignal analysis (EEG, ECG)
+
+- Multimodal representation learning (EEG-to-fMRI Translation)
+
+- State-space models and Transformers for sequential data
+
+- Foundation models for biomedical data
+
+Thanks for stopping by! Feel free to take a look around, browse my research journey, and if you think we could build something interesting together, don't hesitate to reach out. :)
