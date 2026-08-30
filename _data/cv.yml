@@ -1,104 +1,44 @@
 cv:
-  name: Emil Kim
-  label: Graduate Researcher
-  email: emilkim01@pusan.ac.kr
-  location: Busan, South Korea
+  name: 
+  label: 
+  email: 
+  location: 
   image: ""
-  summary: M.S. candidate researching biosignals, medical image analysis, and multimodal representation learning at Pusan National University.
+  summary:
   social_networks:
-    - network: LinkedIn
-      username: emeelkaa
-    - network: GitHub
-      username: emeelkaa
-
   address:
-    street: 2 Busandaehak-ro 63 beon-gil
-    city: Busan
+    street: 
+    city: 
     region:
-    postalCode: 46241
-    countryCode: KR
-
+    postalCode: 
+    countryCode:
   sections:
     Education:
       - institution: Pusan National University
         location: Busan, South Korea
-        url: https://www.ai.pusan.ac.kr/
+        url: https://ai.pusan.ac.kr/ai/index.do
         area: Artificial Intelligence
-        studyType: Graduate School of AI
+        studyType: M.S.
         start_date: 2025-03
         end_date: Present
-        score: "4.25/4.5"
+        score:
         courses: ""
         highlights: []
-
       - institution: Pusan National University
         location: Busan, South Korea
-        url: https://www.cse.pusan.ac.kr/
+        url: https://cse.pusan.ac.kr/sites/cse/index.do
         area: Computer Science and Engineering
         studyType: B.S.
         start_date: 2020-09
         end_date: 2025-01
-        score: "4.0/4.5"
+        score:
         courses: ""
         highlights: []
-
-    Experience:
-      - company: IC&ML Lab, Pusan National University
-        position: Graduate Research Assistant
-        location: Busan, South Korea
-        start_date: 2024-09
-        end_date: Present
-        summary: ""
-        highlights:
-          - Designed and trained deep learning architectures for neural signal analysis and representation learning.
-          - Developed multimodal learning frameworks for EEG–fMRI translation, focusing on cross-modal representation learning.
-          - Developed and evaluated foundation-model approaches for multimodal biomedical data.
-
-      - company: Pusan National University
-        position: "Teaching Assistant — Introduction to Unix Programming"
-        location: Busan, South Korea
-        start_date: 2026-03
-        end_date: 2026-06
-        summary: ""
-        highlights:
-          - Designed programming assignments, led weekly practice sessions, and mentored undergraduate students.
-
-    Awards:
-      - title: "1st Place, Three Minute Thesis (3MT)"
-        authors:
-          - Pusan National University
-        date: 2026
-        awarder: Pusan National University
-        url: ""
-        summary: ""
-
-      - title: Best Paper Award
-        authors:
-          - Physical AI International Forum (JKAIA)
-        date: 2025
-        awarder: Physical AI International Forum (JKAIA), Seoul, South Korea
-        url: ""
-        summary: ""
 
     Languages:
       - name: Russian
         summary: "Native"
-
       - name: English
-        summary: "IELTS 8.0"
-
+        summary: Fluent
       - name: Korean
-        summary: "TOPIK 5"
-
-    Certificates:
-      - name: Pusan National University Graduate School Scholarship
-        date: 2025-01-01
-        issuer: Pusan National University
-        icon: fa-solid fa-graduation-cap
-
-      - name: Samsung Dream Scholarship
-        date: 2023-01-01
-        issuer: Samsung
-        icon: fa-solid fa-award
-
-    
+        summary: Professional

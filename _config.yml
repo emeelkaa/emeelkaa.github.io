@@ -6,8 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Emil
 #middle_name: R.
 last_name: Kim
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+contact_note: 
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Emil Kim — Graduate Research Assistant, working on deep learning for EEG/fMRI multimodal representation learning.
 footer_text: >
@@ -98,7 +97,7 @@ navbar_fixed: true
 footer_fixed: true
 search_enabled: true
 socials_in_search: true
-posts_in_search: true
+posts_in_search: false
 bib_search: true
 
 # Dimensions
@@ -199,15 +198,15 @@ newsletter:
 
 collections:
   books:
-    output: true
+    output: false
   news:
     defaults:
       layout: post
     output: true
   projects:
-    output: true
+    output: false
   teachings:
-    output: true
+    output: false
 
 # -----------------------------------------------------------------------------
 # Jekyll settings

@@ -27,7 +27,7 @@ latest_posts:
 
 Hello! My name is Emil. I am currently a second-year M.S. candidate in the [IC&ML Lab](https://jkgahm.github.io/), Graduate School of AI, Pusan National University. Before starting my graduate studies, I obtained my B.S. in Computer Science and Engineering at Pusan National University.
 
-I spend most of my time exploring biosignals, medical image analysis, and multimodal representation learning — usually with too many tabs open and a GPU running somewhere.
+I spend most of my time exploring biosignals, multimodal representation learning, and medical image analysis — usually with too many tabs open and a GPU running somewhere.
 
 My research interest lies in:
 
@@ -35,8 +35,8 @@ My research interest lies in:
 
 - Multimodal representation learning (EEG-to-fMRI Translation)
 
-- State-space models and Transformers for sequential data
-
 - Foundation models for biomedical data
+
+- Medical Image Analysis
 
 Thanks for stopping by! Feel free to take a look around, browse my research journey, and if you think we could build something interesting together, don't hesitate to reach out. :)
